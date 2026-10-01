@@ -27,4 +27,8 @@
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SergeWesley&color=007ec6&style=flat-square" alt="Profil Views" />
+</p>
+
 
